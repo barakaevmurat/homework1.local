@@ -3,7 +3,6 @@ $mass = array ('item1', 'item2', 'item3', 'item4', 'item5', 'item6','item7', 'it
 ?>
 <link rel="stylesheet" type="text/css" href="myCss.css">
 
-
 <div id = "div1">
     <ul>
         <?php foreach ($mass as $key => $item): ?>
