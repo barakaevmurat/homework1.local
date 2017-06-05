@@ -1,0 +1,17 @@
+#div1 {
+position: absolute;
+left: 20px;
+top: 20px;
+width: 225px;
+border: 1px solid black;
+}
+#div2 {
+position: absolute;
+left: 265px;
+top: 20px;
+width: 225px;
+border: 1px solid black;
+}
+b{
+color: red;
+}
